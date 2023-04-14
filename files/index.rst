@@ -7,11 +7,11 @@ Welcome to sphinx-test's documentation!
 =======================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
+   :glob:
 
-   /pages/1
-   /pages/2
+   pages/*
 
 Indices and tables
 ==================
